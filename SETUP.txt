@@ -1,0 +1,20 @@
+INSTALL ON GITHUB
+
+1. Create a PUBLIC repository named exactly: ahmednour1234
+   If it exists, open the existing repository.
+2. Extract this ZIP on your computer.
+3. Open the repository, then Add file > Upload files.
+4. Upload README.md and the complete assets folder together.
+   Upload the CONTENTS of this folder, not the parent folder.
+5. Commit changes. Your profile will display the README.
+
+Required repository structure:
+README.md
+assets/profile-banner.png
+assets/tech-stack.png
+
+You do not need to upload SETUP.txt.
+The PNG assets use the blue/violet palette from elnour.online.
+GitHub controls the page layout; custom website CSS and JavaScript do not run in a profile README.
+Security is described as projects and interests, not a professional certification.
+Business project examples and contact links were taken from the supplied portfolio.
