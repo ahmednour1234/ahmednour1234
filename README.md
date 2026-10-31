@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://elnour.online/">
-    <img src="assets/profile-banner.png" width="100%" alt="Ahmed Nour — Software Engineer. Backend, ERP, integrations, Python, PostgreSQL and security projects." />
+    <img src="profile-banner.png" width="100%" alt="Ahmed Nour — Software Engineer. Backend, ERP, integrations, Python, PostgreSQL and security projects." />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Python tools, PostgreSQL projects, and hands-on cybersecurity exploration.
 
 ## Technologies & interests
 
-<img src="assets/tech-stack.png" width="100%" alt="PHP, Laravel, Python, PostgreSQL, MySQL, and cybersecurity projects" />
+<img src="tech-stack.png" width="100%" alt="PHP, Laravel, Python, PostgreSQL, MySQL, and cybersecurity projects" />
 
 **Backend:** PHP · Laravel · Python · REST APIs  
 **Data:** PostgreSQL · MySQL  
